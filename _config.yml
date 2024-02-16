@@ -258,6 +258,17 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _coauthors
+  - scope:
+      path: ""
+      type: coauthors
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 
 # Sass/SCSS
