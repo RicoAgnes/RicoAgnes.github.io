@@ -201,6 +201,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  coauthors:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
